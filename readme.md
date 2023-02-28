@@ -19,7 +19,7 @@ This placement cell web application.
 - Update user profile
 - Download the CSV report
  
-## 🧑‍💻 Getting started
+## Getting started
 
 * Clone the repository in your local system
 * Install all required packages
@@ -30,8 +30,6 @@ npm install
 ```bash
 npm start
 ```
-The project is running on the port number provided by you.
-
 
 
 ### Libraries: 
