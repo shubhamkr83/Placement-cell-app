@@ -34,7 +34,6 @@ npm start
 
 ### Libraries: 
 * bcryptjs
-* connect-flash
 * connect-mongo
 * cookie-parser
 * dotenv
