@@ -18,6 +18,7 @@ This placement cell web application.
 - Deallocate the student from an interview
 - Update user profile
 - Download the CSV report
+- Find latest jobs on jobs page
  
 ## Getting started
 
