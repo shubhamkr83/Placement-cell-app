@@ -8,7 +8,7 @@ This placement cell web application.
 - EJS
 - Bootstrap
 
-### 🔗 Hosted link: [placement cell](https://placement-cell.onrender.com/)
+### 🔗 Hosted link: 
 
 ## Functionality 
 - User/Employee signUp and signIn
