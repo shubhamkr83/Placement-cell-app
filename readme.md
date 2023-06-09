@@ -7,11 +7,6 @@ This placement cell web application.
 - ExpressJS
 - EJS
 - Bootstrap
-- passport
-- passport-local
-- bcryptjs
-- cookie-parser
-- connect-flash
 
 ### 🔗 Youtube link: https://youtu.be/W5eb-Iowo2U
 ### 🔗 Hosted link: https://placementcell-h84y.onrender.com/
