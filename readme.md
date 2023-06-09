@@ -7,6 +7,11 @@ This placement cell web application.
 - ExpressJS
 - EJS
 - Bootstrap
+- passport
+- passport-local
+- bcryptjs
+- cookie-parser
+- connect-flash
 
 ### 🔗 Youtube link: https://youtu.be/W5eb-Iowo2U
 ### 🔗 Hosted link: https://placementcell-h84y.onrender.com/
@@ -49,15 +54,19 @@ npm start
 
 ## 🖼️ Screenshots
 Signin Page
+
 ![Screenshot (294)](https://user-images.githubusercontent.com/72254047/221829570-19cdaa27-0d8c-4528-b919-b95058e762be.png)
 
 Dashboard Page
+
 ![Screenshot (295)](https://user-images.githubusercontent.com/72254047/221829690-3b5cd0d6-c79a-4aca-b3d2-8b5b6287f95a.png)
 
 Dashboard Page Student Section
+
 ![Screenshot (297)](https://user-images.githubusercontent.com/72254047/221829835-d132e894-e948-447c-bc5c-a66884ed9586.png)
 
 Dashboard Page Interview Section
+
 ![Screenshot (298)](https://user-images.githubusercontent.com/72254047/221829978-3e6af00b-663a-4835-b831-895ebb7318ba.png)
 
 Add Student Page
