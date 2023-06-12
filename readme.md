@@ -8,7 +8,6 @@ This placement cell web application.
 - EJS
 - Bootstrap
 
-### 🔗 Youtube link: https://youtu.be/W5eb-Iowo2U
 ### 🔗 Hosted link: https://placementcell-h84y.onrender.com/
 
 ## Functionality 
