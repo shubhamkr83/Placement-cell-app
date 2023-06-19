@@ -1,5 +1,7 @@
 # Placement cell web app
-This placement cell web application.
+This placement cell web application. 
+Completed placement cell a web-based application using Nodejs as a backend, MongoDB as Database, EJS for the front end, and Bootstrap for Styling.
+Improved the security of the Placement cell web app by using Passportjs and Passport-Local Strategies to authenticate user logins, bcryptjs to encrypt all data and Axios for API call
 
 ## Tools Used 
 - NodeJS
